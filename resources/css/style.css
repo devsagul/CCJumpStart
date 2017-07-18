@@ -80,6 +80,10 @@ img {
   justify-content: center;
 }
 
+.carousel:active {
+  background: none;
+}
+
 .jumbotron h1 {
   font-size: 7.1rem;
   text-transform: uppercase;
